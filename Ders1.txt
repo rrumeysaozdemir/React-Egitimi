@@ -1,0 +1,27 @@
+➤ React Nedir?  
+- Web uygulamalarında arayüzleri componentler halinde geliştirmemizi sağlayan, hızlı ve dinamik uygulamalar oluşturmamıza olanak tanıyan bir JavaScript kütüphanesidir.
+
+➤ DOM Nedir?  
+- Document Object Model; HTML ve XML belgelerinin tarayıcı tarafından ağaç yapısında temsil edilmesidir.  
+- Her HTML elementi bir “node” olarak kabul edilir.  
+
+➤ Real DOM:  
+- Tarayıcının doğrudan oluşturduğu ve işlediği DOM yapısıdır.  
+- HTML sayfası çalıştırıldığında tarayıcı bunu işler.  
+- Her değişiklikte tüm sayfa yeniden render edilir.  
+- Özellikle büyük sayfalarda değişiklik yavaş olabilir.
+
+➤ Virtual DOM:  
+- Hafızada tutulan hafif bir kopya DOM’dur.  
+- React gibi kütüphaneler değişiklikleri önce bu sanal DOM’a yapar ve sadece gerçekten değişen yerleri real DOM’a minimum düzeyde uygular.  
+- DOM manipülasyonunu minimuma indirir.
+
+➤ Node.js Nedir?  
+- JavaScript’i sadece tarayıcıda değil sunucuda da çalıştırmamızı sağlayan güçlü bir platformdur.  
+- Web uygulamaları, API’ler ve çok daha fazlası için kullanılır.
+
+➤ React ile İlgisi:  
+- React projelerini çalıştırmak ve build almak için kullanılır.
+
+➤ ES6 Modül Sistemi Nedir?
+- JavaScript’in farklı dosyalar arasında kod paylaşımını ve modüler yapısını yönetmesini sağlayan yerleşik modül yapısıdır.
